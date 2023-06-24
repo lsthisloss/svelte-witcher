@@ -34,12 +34,12 @@
     margin-bottom: 0;
     a {
       display: none;
-      margin: 25px 0 0 134px;
+      margin: 10px 0 0 10px;
       pointer-events: auto;
       img {
         max-width: 208px;
         max-height: 13.1313131313vh;
-        min-height: 112px;
+        min-height: 80px;
         filter: drop-shadow(0 4px 16px rgba(0, 0, 0, 0.3));
       }
     }
